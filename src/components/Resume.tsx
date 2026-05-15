@@ -210,7 +210,7 @@ export default function Resume() {
           href="/LaurenDruryResume.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            download="Lauren-Drury-Resume.pdf"
+            download="LaurenDruryResume.pdf"
             style={{
               border: '1px solid var(--border)',
               color: '#ffffff',
