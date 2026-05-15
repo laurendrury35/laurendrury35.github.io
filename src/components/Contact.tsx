@@ -25,7 +25,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="https://linkedin.com/in/1aurendrury"
+            href="https://linkedin.com/in/laurendrury35"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -70,7 +70,7 @@ export default function Contact() {
           <div style={{ display: 'flex', gap: '1.5rem' }}>
             {[
               { label: 'GitHub', href: 'https://github.com/1aurendrury' },
-              { label: 'LinkedIn', href: 'https://linkedin.com/in/1aurendrury' },
+              { label: 'LinkedIn', href: 'https://linkedin.com/in/laurendrury35' },
             ].map(link => (
               <a
                 key={link.label}
