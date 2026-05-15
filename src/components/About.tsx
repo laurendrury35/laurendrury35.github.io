@@ -30,6 +30,8 @@ const toolsAndSoftware = [
   'GitHub',
   'Docker',
   'Kubernetes',
+  'Splunk',
+  'Datadog',
   'MongoDB',
   'MySQL',
   'PostgreSQL',
@@ -73,12 +75,12 @@ export default function About() {
           </FadeIn>
           <FadeIn delay={0.2}>
             <p style={{ color: 'var(--muted)', lineHeight: 1.9, fontSize: '1rem', marginBottom: '1.5rem' }}>
-            I am a recent computer science graduate from Northeastern University. After a year at UMass Amherst, where I studied chemical engineering, I developed a passion for computer science while coding in MATLAB and decided to pursue it full time at Northeastern. Here, I concentrated in software and I aim to continue working in software and data engineering in the future.
+            I am a computer science graduate from Northeastern University. After a year at UMass Amherst, where I studied chemical engineering, I developed a passion for computer science while coding in MATLAB and decided to pursue it full time at Northeastern. Here, I concentrated in software and I'm currently building upon this at Fidelity Investments.
             </p>
           </FadeIn>
           <FadeIn delay={0.25}>
             <p style={{ color: 'var(--muted)', lineHeight: 1.9, fontSize: '1rem', marginBottom: '2.5rem' }}>
-            Beyond the classroom, I bring 16 months of full-time experience in both software and data engineering, most recently at Claim, a Sequoia-backed Series A fintech startup. I enjoy working at the intersection of data and software, building scalable systems that not only support rapid growth but also provide a strong technical foundation for the future.            </p>
+            Beyond the classroom, I bring 16 months of full-time experience in both software and data engineering, most recently at Claim, a Sequoia-backed Series A fintech startup. I enjoy working at the intersection of data and software, building scalable systems that not only support rapid growth but also provide a strong technical foundation for the future. </p>
           </FadeIn>
           <FadeIn delay={0.25}>
             <p style={{ color: 'var(--muted)', lineHeight: 1.9, fontSize: '1rem', marginBottom: '2.5rem' }}>
@@ -93,7 +95,7 @@ export default function About() {
               >
                 GitHub ↗
               </a>
-              <a href="https://linkedin.com/in/1aurendrury" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '0.85rem', letterSpacing: '0.05em', transition: 'color 0.2s' }}
+              <a href="https://linkedin.com/in/laurendrury35" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '0.85rem', letterSpacing: '0.05em', transition: 'color 0.2s' }}
                 onMouseEnter={e => (e.currentTarget.style.color = 'var(--accent)')}
                 onMouseLeave={e => (e.currentTarget.style.color = 'var(--muted)')}
               >

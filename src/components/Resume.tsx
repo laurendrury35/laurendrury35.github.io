@@ -18,6 +18,15 @@ interface EducationEntry {
 
 const experience: ResumeEntry[] = [
   {
+    role: 'Associate Full Stack Engineer',
+    org: 'Fidelity Investments',
+    location: 'Merrimack, NH',
+    period: 'May 2026 - Present',
+    bullets: [
+      'Currently building cool stuff :)',
+    ],
+  },
+  {
     role: 'Software Engineer Co-Op',
     org: 'Claim, a Sequoia-backed Series A Fintech Startup',
     location: 'Boston, MA',
