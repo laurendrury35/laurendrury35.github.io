@@ -20,7 +20,7 @@ const projects: Project[] = [
     title: 'Credit Card Rewards Maximizer',
     description: 'Built a reinforcement learning system using Q-learning to optimize credit card usage by selecting the most rewarding card (cashback, points, or both) for each user transaction.\nDesigned a custom Gym environment with discrete state tuples of transaction category and amount bucket, enabling the agent to learn spending patterns and reward structures across thousands of training episodes.\nDeveloped a realistic credit card recommendation model that balances reward maximization with practical constraints such as annual fees and limiting the total number of cards a user needs to manage.\nProject for CS4100: Artificial Intelligence.',
     tags: ['Python', 'Scikit-learn', 'Pandas', 'Matplotlib', 'Reinforcement Learning', 'Q-learning', 'Gym', 'Streamlit'],
-    github: 'https://github.com/1aurendrury/credit-card-reward-maximizer',
+    github: 'https://github.com/laurendrury35/credit-card-reward-maximizer',
     year: '2025',
   },
   {
@@ -159,7 +159,7 @@ export default function Projects() {
           style={{ marginTop: '2.5rem', textAlign: 'center' }}
         >
           <a
-            href="https://github.com/1aurendrury"
+            href="https://github.com/laurendrury35"
             target="_blank"
             rel="noopener noreferrer"
             style={{

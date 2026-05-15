@@ -69,7 +69,7 @@ export default function Contact() {
           </p>
           <div style={{ display: 'flex', gap: '1.5rem' }}>
             {[
-              { label: 'GitHub', href: 'https://github.com/1aurendrury' },
+              { label: 'GitHub', href: 'https://github.com/laurendrury35' },
               { label: 'LinkedIn', href: 'https://linkedin.com/in/laurendrury35' },
             ].map(link => (
               <a
