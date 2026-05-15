@@ -89,7 +89,7 @@ export default function About() {
           </FadeIn>
           <FadeIn delay={0.3}>
             <div style={{ display: 'flex', gap: '1.5rem' }}>
-              <a href="https://github.com/1aurendrury" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '0.85rem', letterSpacing: '0.05em', transition: 'color 0.2s' }}
+              <a href="https://github.com/laurendrury35" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--muted)', textDecoration: 'none', fontSize: '0.85rem', letterSpacing: '0.05em', transition: 'color 0.2s' }}
                 onMouseEnter={e => (e.currentTarget.style.color = 'var(--accent)')}
                 onMouseLeave={e => (e.currentTarget.style.color = 'var(--muted)')}
               >
